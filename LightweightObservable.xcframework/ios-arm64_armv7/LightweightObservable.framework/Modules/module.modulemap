@@ -1,0 +1,4 @@
+framework module LightweightObservable {
+  header "LightweightObservable-Swift.h"
+  requires objc
+}

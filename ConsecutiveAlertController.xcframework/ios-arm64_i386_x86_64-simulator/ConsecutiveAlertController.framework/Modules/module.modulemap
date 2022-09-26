@@ -1,0 +1,4 @@
+framework module ConsecutiveAlertController {
+  header "ConsecutiveAlertController-Swift.h"
+  requires objc
+}

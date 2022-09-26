@@ -1,0 +1,6 @@
+framework module DPToastView {
+  umbrella header "DPToastView.h"
+
+  export *
+  module * { export * }
+}

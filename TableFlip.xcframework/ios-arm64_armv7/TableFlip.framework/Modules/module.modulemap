@@ -1,0 +1,4 @@
+framework module TableFlip {
+  header "TableFlip-Swift.h"
+  requires objc
+}

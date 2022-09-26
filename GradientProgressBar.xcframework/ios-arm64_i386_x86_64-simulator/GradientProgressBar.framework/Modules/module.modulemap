@@ -1,0 +1,4 @@
+framework module GradientProgressBar {
+  header "GradientProgressBar-Swift.h"
+  requires objc
+}

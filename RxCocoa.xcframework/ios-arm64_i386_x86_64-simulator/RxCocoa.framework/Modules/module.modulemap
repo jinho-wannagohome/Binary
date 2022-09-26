@@ -1,0 +1,4 @@
+framework module RxCocoa {
+  header "RxCocoa-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+framework module Reusable {
+  header "Reusable-Swift.h"
+  requires objc
+}

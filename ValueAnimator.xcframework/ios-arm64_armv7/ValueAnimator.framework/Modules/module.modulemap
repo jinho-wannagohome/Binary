@@ -1,0 +1,4 @@
+framework module ValueAnimator {
+  header "ValueAnimator-Swift.h"
+  requires objc
+}

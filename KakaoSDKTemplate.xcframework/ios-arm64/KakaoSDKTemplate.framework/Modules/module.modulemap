@@ -1,0 +1,4 @@
+framework module KakaoSDKTemplate {
+  header "KakaoSDKTemplate-Swift.h"
+  requires objc
+}

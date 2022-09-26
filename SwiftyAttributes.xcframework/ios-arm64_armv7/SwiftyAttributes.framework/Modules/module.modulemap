@@ -1,0 +1,4 @@
+framework module SwiftyAttributes {
+  header "SwiftyAttributes-Swift.h"
+  requires objc
+}

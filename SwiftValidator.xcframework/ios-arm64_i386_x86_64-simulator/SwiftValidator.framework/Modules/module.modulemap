@@ -1,0 +1,4 @@
+framework module SwiftValidator {
+  header "SwiftValidator-Swift.h"
+  requires objc
+}

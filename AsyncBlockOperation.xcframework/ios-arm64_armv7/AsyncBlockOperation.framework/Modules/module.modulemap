@@ -1,0 +1,6 @@
+framework module AsyncBlockOperation {
+  umbrella header "AsyncBlockOperation.h"
+
+  export *
+  module * { export * }
+}

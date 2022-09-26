@@ -1,0 +1,4 @@
+framework module Parchment {
+  header "Parchment-Swift.h"
+  requires objc
+}

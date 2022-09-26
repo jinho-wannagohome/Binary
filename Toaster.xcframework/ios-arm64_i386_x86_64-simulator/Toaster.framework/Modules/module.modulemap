@@ -1,0 +1,4 @@
+framework module Toaster {
+  header "Toaster-Swift.h"
+  requires objc
+}

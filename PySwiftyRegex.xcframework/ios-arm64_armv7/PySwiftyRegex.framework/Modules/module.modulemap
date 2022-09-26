@@ -1,0 +1,4 @@
+framework module PySwiftyRegex {
+  header "PySwiftyRegex-Swift.h"
+  requires objc
+}

@@ -1,0 +1,4 @@
+framework module KakaoSDKUser {
+  header "KakaoSDKUser-Swift.h"
+  requires objc
+}
